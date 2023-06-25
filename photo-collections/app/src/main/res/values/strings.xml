@@ -1,0 +1,84 @@
+<resources>
+    <string name="photo_collections">Photo Collections</string>
+
+    <string name="title_onboard_one">Unsplash has over a million free high-resolution photos. Explore these popular photo categories on Unsplash!</string>
+    <string name="title_onboard_two">Share your images with millions of people around the world. Upload a photo.</string>
+    <string name="title_onboard_three">Beautiful images and photos that you can download and use for any project. The photos are free to use.</string>
+    <string name="description_onboard_one"> </string>
+    <string name="description_onboard_two"> </string>
+    <string name="description_onboard_three"> </string>
+    <string name="text_skip">skip</string>
+    <string name="close">Close</string>
+    <string name="login_button">Sign in with Unsplash</string>
+    <string name="auth_canceled">Authentication failed</string>
+    <string name="title_photos">Photos</string>
+    <string name="title_collection">Collections</string>
+    <string name="title_notifications">User</string>
+    <string name="photo_details_exif_made">Made на:\u0020</string>
+    <string name="photo_details_exif_model">Model:\u0020</string>
+    <string name="photo_details_exif_exposure">Exposure:\u0020</string>
+    <string name="photo_details_exif_aperture">Aperture:\u0020</string>
+    <string name="photo_details_exif_focal_length">Focal length:\u0020</string>
+    <string name="photo_details_camera_iso">ISO:\u0020</string>
+    <string name="photo_details_location_label">Place of the photo</string>
+    <string name="photo_details_shared_text"><u>Share</u>\u0020</string>
+    <string name="photo_details_shared_link">Share via:</string>
+    <string name="photo_details_download"><u>Download</u></string>
+    <string name="photo_details_permission_granted">Permission granted</string>
+    <string name="photo_details_permission_not_granted">Need permissions to access internal storage</string>
+
+    <plurals name="collection_photo_sum">
+        <item quantity="zero">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
+        <item quantity="two">%1$d photos</item>
+        <item quantity="few">%1$d photos</item>
+        <item quantity="many">%1$d photos</item>
+        <item quantity="other">%1$d photos</item>
+    </plurals>
+    <string name="collections_subscription">\u0020 By subscription UNSPLASH +\u0020</string>
+    <string name="collections_photo_unsplash_plus">List of photos of this collection, available only to <b>UNSPLASH +</b> subscription users</string>
+
+    <string name="exit_question">Are you sure you want to exit? All local data will be deleted?</string>
+    <string name="exit_yes_btn">logout</string>
+    <string name="exit_no_btn">stay</string>
+    <plurals name="profile_followers">
+        <item quantity="zero">%1$d followers</item>
+        <item quantity="one">%1$d follower</item>
+        <item quantity="two">%1$d followers</item>
+        <item quantity="few">%1$d followers</item>
+        <item quantity="many">%1$d followers</item>
+        <item quantity="other">%1$d followers</item>
+    </plurals>
+    <plurals name="profile_following">
+        <item quantity="zero">%1$d followings</item>
+        <item quantity="one">%1$d following</item>
+        <item quantity="two">%1$d followings</item>
+        <item quantity="few">%1$d followings</item>
+        <item quantity="many">%1$d followings</item>
+        <item quantity="other">%1$d followings</item>
+    </plurals>
+
+
+    <string name="author_name">Имя автора</string>
+    <string name="author_nickname">Никнейм</string>
+    <string name="photo_details_location_name">Наименование локации</string>
+    <string name="photo_details_hashTag">хэштеги</string>
+    <string name="photo_details_author_info">Информация об авторе</string>
+    <string name="photo_details_sumOfDownloads">(000)</string>
+    <string name="photo_details_camera">exif\nexif\nexif\nexif\nexif\nexif</string>
+    <string name="collection_sum_of_photo">Количество фотограций</string>
+    <string name="collection_name_collection">Название альбома</string>
+    <string name="collections_details_collection_name">Название альбома</string>
+    <string name="collections_details_collection_tags">Теги</string>
+    <string name="collections_details_collection_description">Описание</string>
+    <string name="collections_details_collection_author_nickname">Никнейм автора</string>
+    <string name="collections_details_collection_total_photos">Количество фотографий</string>
+    <string name="profile_total_followers">Количество подписчиков</string>
+    <string name="profile_total_following">Количество подписок</string>
+    <string name="profile_mail">E-mail</string>
+    <string name="app_auth_redirect_scheme">com.practice.work.unsplash://unsplash</string>
+    <string name="on_boarding_text_first">В Unsplash более миллиона бесплатных фотографий в высоком разрешении. Изучите эти популярные категории фотографий на Unsplash!</string>
+    <string name="on_boarding_text_second">Делитесь своими изображениями с миллионами людей по всему миру. Загрузите фотографию.</string>
+    <string name="on_boarding_text_third">Красивые изображения и фотографии, которые вы можете скачать и использовать для любого проекта. Фотографии можно использовать бесплатно.</string>
+
+</resources>
